@@ -1,0 +1,10 @@
+3
+IPhone_Pro_max
+234553
+Apple
+Galaxy
+123998
+Samsung
+RedMI_Note
+123998
+Xiaomi
